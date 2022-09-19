@@ -17,3 +17,5 @@ Correspondence: marisa@lncc.br, ernesto.perez@iimas.unam.mx
 Supplementary Table S3: Gene regulatory network of the Bmb9393 strain mentioned in the __Gene Regulatory Network of the Bmb9393 strain__ subsection of Results and Discussion section.
 
 Supplementary Table S4: List of DEGs (differentially expressed genes) in the biofilm condition with their respective TFs from the GRN of Bmb9393 in the __Highlighting genes with altered expression in S. aureus biofilm subsection__ of Results and Discussion section.
+
+References Supplementary Table S3: List of references used to validate regulatory interactions in the GRN of Bmb9393.
